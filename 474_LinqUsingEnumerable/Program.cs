@@ -47,7 +47,7 @@ namespace _474_LinqUsingEnumerable
 
         static void NewMet()
         {
-            Console.WriteLine("For GIT, V3");
+            Console.WriteLine();
         }
 
         static void Main(string[] args)
