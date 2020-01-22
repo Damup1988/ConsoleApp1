@@ -45,6 +45,11 @@ namespace _474_LinqUsingEnumerable
                 Console.WriteLine(v);
         }
 
+        static void NewMet()
+        {
+            Console.WriteLine();
+        }
+
         static void Main(string[] args)
         {
             QueryStringsWithOperators();
